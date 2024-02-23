@@ -1,2 +1,2 @@
 # zero-trust-vpn
-digital privacy &amp; security 4 the people
+Modern digital privacy & security 4 the people.
